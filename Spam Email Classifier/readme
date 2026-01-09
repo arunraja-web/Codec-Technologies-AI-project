@@ -1,0 +1,1 @@
+This project aims to build a machine learning model that can automatically classify email messages as spam or ham (not spam) based on their content. Using the SMS Spam Collection Dataset, the model learns patterns in spam messages and predicts whether a new message is spam. The project also includes data visualizations to explore the dataset and evaluate model performance.
